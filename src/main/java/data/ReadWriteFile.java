@@ -3,12 +3,7 @@ package data;
 import neural.TrainingSet;
 
 import java.io.*;
-import java.net.URL;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class ReadWriteFile {
 

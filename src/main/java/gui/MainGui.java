@@ -37,9 +37,6 @@ public class MainGui extends JFrame {
         new MainGui();
     }
 
-    /**
-     *
-     */
 
     public MainGui() {
         super("Drawing letters using neural networks");
